@@ -183,8 +183,8 @@ class RoadHazardApp(ctk.CTk):
         super().__init__()
         self.title("Road Hazard Dashboard")
         self.geometry("1200x700")
-        ctk.set_appearance_mode("Light")
-        ctk.set_default_color_theme("blue")
+        ctk.set_appearance_mode("dark")
+        ctk.set_default_color_theme("green")
 
         # state
         self.camera_sources = []  # list of sources (ints or rtsp strings)
@@ -512,3 +512,4 @@ if __name__ == "__main__":
     app = RoadHazardApp()
     app.protocol("WM_DELETE_WINDOW", app.on_closing)
     app.mainloop()
+
