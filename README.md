@@ -1,3 +1,7 @@
+## ChangeLog
+Changed Radii App theme from Light mode to Dark
+Changed button colour from Blue to Greeen
+
 ## Introduction
 
 Radii is a modular, expressive assistant framework built for civic tech, accessibility, and real-time responsiveness. Designed to feel alive, Radii blends AI-style interactions with hardware-grade reliability—whether you're building accident detection systems, alert platforms, or just want your assistant to vibe with users.
