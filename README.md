@@ -1,6 +1,6 @@
 ## ChangeLog
-Changed Radii App theme from Light mode to Dark
-Changed button colour from Blue to Greeen
+Fixed Camera lag in GUI app
+Fixed Bugs related to the green box that appear(some of them are still there)
 
 ## Introduction
 
